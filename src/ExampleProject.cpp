@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
  
- //Main function
+ //Main function changed
 int main(int argc, char const *argv[])
 {
     printf("Hello World!");
